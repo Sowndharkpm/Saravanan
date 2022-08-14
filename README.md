@@ -1,2 +1,1 @@
 # sowndharkpm
-frontend developer
